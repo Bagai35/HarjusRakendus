@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <countries>
+        <country name="Россия">
+            <name>Россия</name>
+            <language isOfficia="True"> русский</language>
+            <currency name="Rubl"></currency>
+            <currency_symbol>RUB</currency_symbol>
+        </country>
+        <country name="Эстония">
+            <name>Эстония</name>
+            <language isOfficia="True"> эстонский</language>
+            <language>русский</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="США">
+            <name>США</name>
+            <language isOfficia="True"> английский</language>
+            <currency>доллар</currency>
+            <currency_symbol>USD</currency_symbol>
+        </country>
+        <country name="Германия">
+            <name>Германия</name>
+            <language isOfficia="True"> немецкий</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="Франция">
+            <name>Франция</name>
+            <language isOfficia="True"> французкий</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="Франция">
+            <name>Нидерланды</name>
+            <language isOfficia="True"> английский </language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="Франция">
+            <name>Франция</name>
+            <language>французский</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="Франция">
+            <name>Франция</name>
+            <language>французский</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+        <country name="Франция">
+            <name>Франция</name>
+            <language>французский</language>
+            <currency name="Euro"></currency>
+            <currency_symbol>EUR</currency_symbol>
+        </country>
+    </countries>
+</root>
